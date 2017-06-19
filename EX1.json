@@ -1,0 +1,22 @@
+{
+    "info" : {
+        "summary" : "Execution of automated tests for release v1.4",
+        "description" : "This execution is automatically created when importing execution results from an external source",
+        "startDate" : "2014-08-30T11:47:35+01:00",
+        "finishDate" : "2014-08-30T11:53:00+01:00"
+        
+    },
+    "tests" : [
+
+ {
+            "testKey" : "XRAYIN-1",
+  "comment" : "Test was OK but the performance is very poor",
+            "status" : "PASS"
+        }
+, {
+            "testKey" : "XRAYIN-2",
+  "comment" : "Test was OK but the performance is very poor",
+            "status" : "FAIL"
+        }
+]
+}

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/cucumber.iml" filepath="$PROJECT_DIR$/cucumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testng-selenium.iml" filepath="$PROJECT_DIR$/testng-selenium.iml" />
     </modules>
   </component>
 </project>
