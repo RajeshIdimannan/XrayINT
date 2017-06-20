@@ -64,14 +64,14 @@ public class SampleSuiteITest {
   }
 
   @Test
-  public void XRAYIN_1() {
+  public void XRAYIN_7() {
      int c = 5 + 5;
      assertEquals(c,10);
 
   }
 
   @Test
-  public void XRAYIN_2() {
+  public void XRAYIN_8() {
    int m = 5 * 5;
    assertEquals(m,10);
   }
